@@ -16,3 +16,14 @@ Questa fase di ricerca ha prodotto due risultati:
 
 - un documento di suggerimenti finalizzati a migliorare la parte pubblica (l’evoluzione del modello 1.0);
 - un insieme di conoscenze che ci ha permesso di progettare i servizi digitali e le funzionalità (l’estensione del modello).
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Indice dei contenuti
+
+   v2.0/analisi-competitiva.rst
+   v2.0/interviste-esperti.rst
+   v2.0/valutazione-euristica.rst
+   v2.0/test-usabilita-v2.0.rst
+   v2.0/conclusioni.rst
