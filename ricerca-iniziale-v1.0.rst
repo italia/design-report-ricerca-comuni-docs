@@ -9,7 +9,6 @@ Le attività di ricerca descritte in questo capitolo si riferiscono alla ricerca
 - attività di benchmarking, per identificare le buone pratiche di usabilità usate da i siti di altri comuni in Italia e all’estero.
 - analisi dei risultati della ricerca qualitativa svolta per il progetto MyPortal della Regione Veneto, nell’ambito del quale è stato poi intrapreso un processo di adeguamento alle linee guida di design, partendo da attività di ricerca e service design.
 
-Nessuna attività di ricerca può dirsi completa e definitiva, soprattutto per un’esperienza vasta e varia come la fruizione di servizi comunali da parte dei cittadini. L’attività di ricerca continuerà nel tempo per informare l’evoluzione e i miglioramenti del modello di sito comunale.
 
 
 
