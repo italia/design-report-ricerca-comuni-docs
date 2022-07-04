@@ -18,6 +18,9 @@ Questa fase di ricerca ha prodotto due risultati:
 - un insieme di conoscenze che ci ha permesso di progettare i servizi digitali e le funzionalità (l’estensione del modello).
 
 
+Nessuna attività di ricerca può dirsi completa e definitiva, soprattutto per un’esperienza vasta e varia come la fruizione di servizi comunali da parte dei cittadini. L’attività di ricerca continuerà nel tempo per informare l’evoluzione e i miglioramenti del modello di sito comunale.
+
+
 .. toctree::
    :maxdepth: 3
    :caption: Indice dei contenuti
