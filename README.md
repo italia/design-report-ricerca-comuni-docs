@@ -1,6 +1,6 @@
-# Documento di esempio - Docs Italia
+# Documentazione di progetto per il modello di sito e servizi dei Comuni italiani
 
-Descrizione scopo del documento.
+Report della ricerca e del processo di progettazione del modello di sito comunale e dei flussi di servizio disponibile su Designers Italia.
 
 # Dipendenze
 
